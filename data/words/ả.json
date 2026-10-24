@@ -1,0 +1,8 @@
+{"schema": 2, "entries": {
+"ảnh": {"pos":[{"name":"Noun","etymology":["Sino-Vietnamese word from ",{"han":"影"},"."],"senses":[{"gloss":["image; reflection"]},{"gloss":["photograph; picture"],"labels":["chiefly","Northern Vietnam"],"syn":["hình"]}]},{"name":"Pronoun","senses":[{"gloss":["he; him (man of equal or slightly greater social status)"],"labels":["colloquial","Southern Vietnam","certain regions of","Thanh Hoá"]}],"syn":["anh ấy"]}]},
+"ảnh thật": {"etymology":["From ",{"vi":"ảnh"}," (“image”) + ",{"vi":"thật"}," (“real”)."],"pos":[{"name":"Noun","senses":[{"gloss":["real image"],"labels":["optics"]}]}]},
+"ảnh âm": {"etymology":["From ",{"vi":"ảnh"}," (“image”) + ",{"vi":"âm"}," (“negative”)."],"pos":[{"name":"Noun","senses":[{"gloss":["a negative"],"labels":["photography"],"syn":["ảnh âm bản","âm bản"]}]}]},
+"ảnh hưởng": {"etymology":["Sino-Vietnamese word from ",{"han":"影響"}," (“influence”)."],"pos":[{"name":"Noun","senses":[{"gloss":["influence"]}]},{"name":"Verb","senses":[{"gloss":["to influence"],"syn":["tác động"]}]}],"usage_notes":[["Although ảnh hưởng means influence, there are cases when it is considered unnatural to use, in which tác động would be used instead."]]},
+"ả": {"pos":[{"name":"Letter","senses":[{"gloss":["The letter ",{"vi":"a"}," with the hook above."]}]},{"name":"Noun","senses":[{"gloss":["elder sister"],"labels":["Central Vietnam"],"syn":["chị"]},{"gloss":["villainess"],"labels":["Northern Vietnam","Southern Vietnam","derogatory"]}]},{"name":"Pronoun","senses":[{"gloss":["she/her"],"labels":["familiar","affectionate","in","Central Vietnam","derogatory","in other dialects"]}]}]},
+"ả đầu": {"pos":[{"name":"Noun","senses":[{"gloss":["same as ả đào"]}]}]}
+}}

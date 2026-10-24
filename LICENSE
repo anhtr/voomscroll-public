@@ -1,0 +1,138 @@
+VoomScroll
+
+Copyright (c) 2026 Anh N Tran. All rights reserved.
+
+This repository is source-available, not open source. Nothing here is offered
+under an open-source or Creative Commons licence except the third-party-derived
+data files listed in section 2, which carry obligations inherited from their
+sources and which cannot be licensed any other way.
+
+Reading this repository on GitHub, and forking it there, is permitted only to
+the extent GitHub's Terms of Service require. That is not a grant of any
+further right.
+
+
+1. ALL RIGHTS RESERVED
+
+  Everything not listed in section 2 is proprietary. No permission is granted
+  to use, copy, modify, adapt, merge, publish, distribute, sublicense or sell
+  it, in whole or in part. This includes, without limitation:
+
+    - the application source: index.html, styles.css, sw.js, js/**
+    - the data pipeline and its documentation: dataraw/**, *.md
+    - the design of the app, its card types and its content selection
+    - data/prose-manifest.json, data/verse-manifest.json and the record
+      structure of data/prose/** and data/verse/**
+    - the English translations of the Vietnamese verse and prose works
+      (see 2(e))
+
+
+2. FILES CARRYING THIRD-PARTY LICENCE OBLIGATIONS
+
+  The files below are adapted from third-party sources. Their licences are
+  reproduced obligations, not a choice made here, and they attach only to the
+  files named. Aggregating them in this repository does not place anything in
+  section 1 under those licences: this repository is a collection, not an
+  adaptation of its own contents.
+
+  Full credits, the licence links, and a statement of what was changed are in
+  ATTRIBUTION.txt.
+
+  (a) Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+      https://creativecommons.org/licenses/by-sa/4.0/
+      Adapted from English Wiktionary:
+
+        data/words/**
+        data/wordlist.csv          (headword column; the frequency and tier
+                                    columns are derived from wordfreq, MIT)
+        data/roots/**              (see also (c))
+        data/roots-manifest.csv
+        data/loans/**
+        data/loans-manifest.csv
+        data/classifiers/**        (except the records noted below)
+        data/classifiers-manifest.csv
+        data/classifier-rules.json (except the rules noted below)
+        data/minimal-pairs/**
+        data/minimal-pairs-tone-manifest.csv
+        data/minimal-pairs-vowel-manifest.csv
+        data/bare-pairs/**
+        data/bare-pairs-manifest.csv
+        the records with ids beginning "wikt-" in data/sentences/**
+        and data/sentences-manifest.json
+
+      The classifier files are mixed. English Wiktionary records a classifier
+      only on some nouns, and unevenly by semantic family rather than by
+      frequency, so a second source was written to fill the gap. Records in
+      data/classifiers/** carrying "source": "curated" or "curated-gloss",
+      and the classifier rules they introduce in data/classifier-rules.json,
+      are original to this repository, are not adapted from Wiktionary, and
+      are therefore under section 1 rather than CC BY-SA. The "source" field
+      ships precisely so the two can be told apart. See
+      dataraw/classifier/curated/README.md.
+
+      dataraw/root-sino/CEDICT_EVAL.md also quotes glosses from CC-CEDICT,
+      a separate CC BY-SA 4.0 source (see ATTRIBUTION.txt), for comparison.
+      Nothing in it feeds data/roots/** or any other shipped file.
+
+  (b) Creative Commons Attribution 2.0 France (CC BY 2.0 FR)
+      https://creativecommons.org/licenses/by/2.0/fr/
+      From Tatoeba:
+
+        the records with ids beginning "tatoeba-" in data/sentences/**
+        and data/sentences-manifest.json
+
+  (c) Unicode Licence v3
+      https://www.unicode.org/license.txt
+      The character readings and glosses taken from the Unicode Unihan
+      database, as they appear within data/roots/**; and the emoji names
+      taken from Unicode CLDR's emoji annotations, together with the emoji
+      grouping taken from Unicode's emoji-test.txt:
+
+        data/emoji/**
+        data/emoji-manifest.csv
+
+      The required copyright and permission notice is reproduced in
+      ATTRIBUTION.txt.
+
+  (d) Public domain
+      The Vietnamese source texts in data/verse/** and data/prose/**:
+      Truyện Kiều (Nguyễn Du, d. 1820), Chí Phèo (Nam Cao, 1941), Hà Nội băm
+      sáu phố phường (Thạch Lam, 1943), and the Universal Declaration of Human
+      Rights in Vietnamese (UN General Assembly resolution 217 A (III), an
+      official UN document). Each file states its own provenance and the
+      reasoning for its public-domain status.
+
+  (e) All rights reserved
+      The English translations in data/verse/** and data/prose/**. They were
+      generated from the public-domain Vietnamese texts above and are not
+      derived from any copyleft or third-party material, so no licence
+      obligation reaches them. They are machine translations; see
+      ATTRIBUTION.txt before relying on them for anything.
+
+  (f) SIL Open Font License 1.1
+      https://openfontlicense.org
+      Subsets of Google's Noto Emoji and Noto Color Emoji, cut to the glyphs
+      the emoji card type uses:
+
+        data/fonts/NotoEmoji-subset.woff2
+        data/fonts/NotoColorEmoji-flags.woff2
+
+      Neither original declares a Reserved Font Name, so the subsets keep the
+      Noto names. Both licences, with their copyright notices, are reproduced
+      in data/fonts/OFL.txt, which the OFL requires to travel with them.
+
+
+3. NAME
+
+  "VoomScroll" is not licensed for use by anyone else, in a fork's name, its
+  presentation, or its promotion. The name is marked VoomScroll™ on public-
+  facing uses to give notice of this reservation; the mark is unregistered, so
+  it is never written with ®.
+
+
+4. NO WARRANTY
+
+  This repository and the site it publishes are provided "as is", without
+  warranty of any kind, express or implied. In no event shall the copyright
+  holder be liable for any claim, damages or other liability arising from them
+  or their use.

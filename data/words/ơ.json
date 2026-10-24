@@ -1,0 +1,5 @@
+{"schema": 2, "entries": {
+"ơn": {"etymology":["Sino-Vietnamese word from ",{"han":"恩"},"."],"pos":[{"name":"Noun","senses":[{"gloss":["favor (deed in which help is voluntarily provided)"],"examples":[{"vi":"biết ơn","en":"to be grateful"},{"vi":"ơn trời","en":"thank god"}]}]}]},
+"ơn trên": {"etymology":[{"vi":"ơn"}," + ",{"vi":"trên"},"."],"pos":[{"name":"Noun","senses":[{"gloss":["God willing"],"labels":["formal","Christianity"]}]}]},
+"ơn nghĩa": {"etymology":["Sino-Vietnamese word from ",{"han":"恩義"},"."],"pos":[{"name":"Noun","senses":[{"gloss":["synonym of ",{"vi":"ân nghĩa"}," (“feelings of gratitude and loyalty; grace, favor, kindness”)"]}]}]}
+}}

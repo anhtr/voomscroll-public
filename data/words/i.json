@@ -1,0 +1,8 @@
+{"schema": 2, "entries": {
+"in": {"pos":[{"name":"Verb","etymology":["Sino-Vietnamese word from ",{"han":"印"}," (“to print”)."],"senses":[{"gloss":["to print"]}]},{"name":"Adjective","senses":[{"gloss":["perfectly fitted"],"labels":["only in compounds"]}]}]},
+"in tư": {"pos":[{"name":"Noun","senses":[{"gloss":["information of someone (esp. on social media platforms like Facebook, Instagram, etc.)"],"labels":["neologism","slang"],"syn":["info","in4"]}]}]},
+"i dài": {"etymology":[{"vi":"i"}," (“i (letter)”) + ",{"vi":"dài"}," (“long”)"],"pos":[{"name":"Noun","senses":[{"gloss":["The name of the Latin-script letter Y."]}],"syn":["i cờ-rét"]}]},
+"in đá": {"etymology":[{"vi":"in"}," (“to print”) + ",{"vi":"đá"}," (“stone”)."],"pos":[{"name":"Noun","senses":[{"gloss":["lithography"],"labels":["printing"],"syn":["in thạch bản","in li-tô"]}]},{"name":"Verb","senses":[{"gloss":["to lithograph"],"labels":["printing"],"syn":["in thạch bản","in li-tô"]}]}]},
+"in ấn": {"etymology":[{"vi":"in"}," (“to print”) + ",{"vi":"ấn"}," (“to print”)"],"pos":[{"name":"Noun","senses":[{"gloss":["printing"]}]}]},
+"i ngắn": {"etymology":[{"vi":"i"}," (“i (letter)”) + ",{"vi":"ngắn"}," (“short”)"],"pos":[{"name":"Noun","senses":[{"gloss":["The name of the Latin-script letter I."]}],"syn":["i"]}]}
+}}

@@ -1,0 +1,16 @@
+{"schema": 2, "entries": {
+"ước": {"etymology":["Sino-Vietnamese word from ",{"han":"約"},"."],"pos":[{"name":"Verb","senses":[{"gloss":["to wish in one's mind"]}]},{"name":"Noun","senses":[{"gloss":["clipping of ",{"vi":"ước số"}," (“divisor”)"]}]}]},
+"ước lượng": {"etymology":[{"vi":"ước"}," + ",{"vi":"lượng"},"."],"pos":[{"name":"Verb","senses":[{"gloss":["to estimate; to measure"],"syn":["ước tính"]}]}]},
+"ước muốn": {"etymology":[{"vi":"ước"}," + ",{"vi":"muốn"},"."],"pos":[{"name":"Verb","senses":[{"gloss":["to wish; to desire"]}]},{"name":"Noun","senses":[{"gloss":["wish; desire"]}]}]},
+"ước tính": {"etymology":[{"vi":"ước"}," + ",{"vi":"tính"},"."],"pos":[{"name":"Verb","senses":[{"gloss":["to estimate"],"syn":["ước lượng"]}]}]},
+"ương": {"pos":[{"name":"Verb","etymology":["Probably Sino-Vietnamese word from ",{"han":"秧"}," (“‘rice seedling’ → ‘seedling (in general)’”), verbalized derivation of the original Chinese noun."],"senses":[{"gloss":["to sow seeds and cultivate them into young plants which may be planted elsewhere, as in a plant nursery"],"labels":["agriculture"],"syn":["ươm"]}]},{"name":"Adjective","senses":[{"gloss":["obstinate; headstrong; stubborn"],"syn":["bướng","cứng đầu"]}]}]},
+"ước lệ": {"etymology":["Sino-Vietnamese word from ",{"han":"約例"},"."],"pos":[{"name":"Noun","senses":[{"gloss":["convention"]}]}]},
+"ước chung lớn nhất": {"pos":[{"name":"Noun","senses":[{"gloss":["clipping of ",{"vi":"ước số chung lớn nhất"}," (“greatest common divisor”)"]}]}]},
+"ước thúc": {"etymology":["Sino-Vietnamese word from ",{"han":"約束"},"."],"pos":[{"name":"Verb","senses":[{"gloss":["to restrain"]}]}]},
+"ước số chung lớn nhất": {"etymology":[{"vi":"ước số"}," (“divisor”) + ",{"vi":"chung"}," (“common”) + ",{"vi":"lớn"}," (“big”) + ",{"vi":"nhất"}," (“most”), calque of Chinese ",{"han":"最大公約數"}," (tối đại công ước số)"],"pos":[{"name":"Noun","senses":[{"gloss":["the greatest common divisor"],"labels":["arithmetic","formal"],"syn":["ước chung lớn nhất"]}]}]},
+"ưu": {"pos":[{"name":"Adjective","etymology":["Sino-Vietnamese word from ",{"han":"優"},"."],"senses":[{"gloss":["optimal, superior"],"labels":["only in fixed Sino-Vietnamese expressions"]},{"gloss":["excellent"],"labels":["historical","chiefly in civil service examination grading"]}]},{"name":"Adjective","etymology":["Sino-Vietnamese word from ",{"han":"憂"},"."],"senses":[{"gloss":["sorrowful"],"labels":["only in fixed Sino-Vietnamese expressions"]}]}]},
+"ưu thế": {"etymology":["Sino-Vietnamese word from ",{"han":"優勢"},"."],"pos":[{"name":"Noun","senses":[{"gloss":["advantage; upper hand"]}]}]},
+"ưu sinh": {"etymology":["Sino-Vietnamese word from ",{"han":"優生"},", composed of ",{"han":"優"}," (“superior”) and ",{"han":"生"}," (“life”)."],"pos":[{"name":"Adjective","senses":[{"gloss":["eugenic"],"labels":["sociology","biology"]}]}]},
+"ưu việt": {"etymology":["Sino-Vietnamese word from ",{"han":"優越"},"."],"pos":[{"name":"Adjective","senses":[{"gloss":["superior, advanced"]}]}]},
+"ưu điểm": {"etymology":["Sino-Vietnamese word from ",{"han":"優點"},"."],"pos":[{"name":"Noun","senses":[{"gloss":["strong point; strength; advantage"],"ant":["nhược điểm","khuyết điểm"]}]}]}
+}}

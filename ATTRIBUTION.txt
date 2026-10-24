@@ -1,0 +1,384 @@
+VoomScroll shows Vietnamese drawn from open dictionaries, sentence corpora
+and public-domain literature. Every source is credited below, with a note on
+what was changed on the way in.
+
+# Words and definitions
+
+English Wiktionary. Definitions, parts of speech and usage notes are
+extracted from the enwiktionary XML dump.
+
+Changed: wikitext markup stripped and re-rendered as HTML; entries reduced to
+their Vietnamese section; some entries filtered out entirely.
+
+https://en.wiktionary.org
+
+Wiktionary text is used under CC BY-SA 4.0:
+https://creativecommons.org/licenses/by-sa/4.0/
+
+# Word frequencies
+
+wordfreq, by Robyn Speer and contributors, used to rank words into the tiers
+that decide how often each word appears. MIT licence.
+
+https://github.com/rspeer/wordfreq
+
+# Example sentences
+
+Two sources, mixed evenly.
+
+Usage examples from English Wiktionary, under CC BY-SA 4.0 as above. Changed:
+wikitext stripped; examples without a usable English gloss dropped.
+
+Sentence pairs from Tatoeba, contributed by its members. Changed: Vietnamese
+and English sentences joined through Tatoeba's link export, then filtered by
+length and punctuation to leave sentences that read well on a card.
+
+https://tatoeba.org
+
+Tatoeba sentences are used under CC BY 2.0 FR:
+https://creativecommons.org/licenses/by/2.0/fr/
+
+# Poetry
+
+Truyện Kiều, by Nguyễn Du (d. 1820). Public domain. The Vietnamese text comes
+from Vietnamese Wikisource.
+
+https://vi.wikisource.org/wiki/Truyện_Kiều
+
+Lục Vân Tiên, by Nguyễn Đình Chiểu (d. 1888). Public domain. The Vietnamese
+text comes from Vietnamese Wikisource (the 2,082-line quốc ngữ edition),
+cross-checked against the 1916 chữ Nôm edition. Every place the two editions
+differ was adjudicated and then reviewed by hand; no correction was applied,
+and the text stands as transcribed. The judgements are recorded in
+dataraw/verse-luc-van-tien/.
+
+https://vi.wikisource.org/wiki/Lục_Vân_Tiên_(bản_Quốc_ngữ_2082_câu)
+
+The English translations of both poems were written for this project by an AI
+model, composed directly from the Vietnamese rather than adapted from any
+published translation. No human Vietnamese speaker has reviewed them.
+
+# Prose
+
+Nửa chừng xuân, by Khái Hưng (1934). Public domain in Vietnam since 1998, and
+never restored in the United States: it had already expired at source before
+either date that could have restored it. Text from Vietnamese Wikisource,
+verified against the transcription at isach.info. Wikisource is the base here
+because isach does not carry the novel's own chapter division - it runs two
+chapters together and invents a title for the untitled opening one. Two long
+passages the two transcriptions disagree about were adjudicated by hand and
+resolved in favour of Wikisource, which carries text isach drops; four
+mechanical transcription faults were corrected, and the reasoning for each is
+recorded in dataraw/prose/khai_hung_nua_chung_xuan/.
+
+https://vi.wikisource.org/wiki/Nửa_chừng_xuân
+
+Số đỏ, by Vũ Trọng Phụng (serialised 1936, first book edition 1938). Public
+domain in Vietnam since 1989. Text from isach.info, verified against the
+independent transcription at book.sachgiai.com. Neither source is backed by
+page scans, so the two transcriptions audit each other; every place they
+disagreed at length was adjudicated by hand, and the corrections applied are
+recorded in dataraw/prose/vu_trong_phung_so_do/.
+
+https://isach.info/story.php?story=so_do__vu_trong_phung
+
+Chí Phèo, by Nam Cao (1941). Public domain in Vietnam since 2002. Text from
+isach.info, verified word-for-word against the Vietnamese Wikisource
+transcription of the 1941 first edition.
+
+Lão Hạc, by Nam Cao (1943), first published in Tiểu thuyết thứ Bảy, số 484,
+23-10-1943. Public domain in Vietnam since 2002. Text from isach.info,
+verified word-for-word against the Vietnamese Wikisource transcription. No
+scan-backed edition of this story exists on Wikisource, so both witnesses are
+typed transcriptions rather than proofread page images.
+
+Sống mòn, by Nam Cao, written in 1944 as Chết mòn and first published
+posthumously in 1956. Public domain in Vietnam since 2002, and never restored
+in the United States: the term runs from the author's death in 1951, so the
+late publication does not move it. Text from Vietnamese Wikisource, pinned to
+one revision per part for all twenty parts, and verified word-for-word against
+the transcription at isach.info. Wikisource is the base because its subpages
+carry the novel's part division and isach carries none. No scan-backed edition
+of this novel exists on Wikisource, so both witnesses are typed transcriptions
+rather than proofread page images, and they agree so closely (99.99% of words)
+that the pairing establishes that no passage is missing rather than that the
+wording is clean. Forty-one transcription faults that both copies carry were
+corrected by hand after an end-of-run adjudication that no human has yet
+reviewed; the reasoning for each, the twenty-seven readings deliberately left
+as printed, and the pinned revisions are recorded in
+dataraw/prose/nam_cao_song_mon/.
+
+https://vi.wikisource.org/wiki/Sống_mòn
+
+Hà Nội băm sáu phố phường, by Thạch Lam (1943). Public domain in Vietnam since
+1992. Text from Vietnamese Wikisource, verified against the transcription at
+sachhayonline.com.
+
+Gió lạnh đầu mùa, by Thạch Lam (1937). Public domain in Vietnam since 1992.
+Text from Vietnamese Wikisource, verified word-for-word against the
+transcription at isach.info. No scan-backed edition of this story exists on
+Wikisource, and the two witnesses are demonstrably descended from a common
+digital ancestor, so the pairing establishes that no passage is missing rather
+than that the wording is clean.
+
+Dưới bóng hoàng lan, by Thạch Lam (1942), first published in the collection
+Sợi tóc, NXB Đời Nay. Public domain in Vietnam since 1992, and never restored
+in the United States. Text from Vietnamese Wikisource, pinned to revision
+205716, and verified word-for-word against the transcription at isach.info. No
+scan-backed edition of this story exists on Wikisource; the two witnesses are
+demonstrably descended from a common digital ancestor, and a third site,
+sachhayonline.com, carries that same transcription token for token, so the
+pairing establishes that no passage is missing rather than that the wording is
+clean. Two transcription faults that every copy in that ancestry carries were
+corrected by hand, both corroborated by a further transcription found outside
+it; the reasoning for those, and for the readings deliberately left alone, is
+recorded in dataraw/prose/thach_lam_duoi_bong_hoang_lan/.
+
+https://vi.wikisource.org/wiki/Dưới_bóng_hoàng_lan
+
+Tuyên ngôn toàn thế giới về nhân quyền — the Universal Declaration of Human
+Rights, UN General Assembly resolution 217 A (III). The Vietnamese text is the
+translation published by the Office of the UN High Commissioner for Human
+Rights, as part of that official record.
+
+https://www.ohchr.org/en/human-rights/universal-declaration/translations/vietnamese
+
+# Sino-Vietnamese roots
+
+English Wiktionary, under CC BY-SA 4.0 as above: Han character pages, word
+etymologies and compound lists.
+
+The Unicode Unihan database: Hán-Việt, Mandarin, Japanese and Korean readings,
+and English glosses for characters Wiktionary leaves unglossed. The required
+notice is at the end of this page.
+
+https://www.unicode.org/reports/tr38/
+
+hvdic.thivien.net, Thi Viện's Hán-Nôm dictionary, and HVDic, its desktop
+edition: used as a reference for which characters carry more than one
+Hán-Việt reading, and for which derived words belong to which reading. The
+site states no licence for this material. Only words that also have their own
+Wiktionary entry are shown.
+
+https://hvdic.thivien.net
+
+Changed, across all three: readings reconciled between sources; one card built
+per character and reading rather than per character; derived words filtered to
+ones this app can gloss or define.
+
+CC-CEDICT was evaluated as a possible fourth source, to fill in characters
+and roots the above leave unglossed. dataraw/root-sino/CEDICT_EVAL.md quotes
+some of its glosses to compare against Wiktionary's. No pipeline data uses
+it — the evaluation found the accuracy trade-off wasn't worth it.
+
+https://cc-cedict.org
+
+CC-CEDICT is used under CC BY-SA 4.0, the same licence as Wiktionary.
+
+# Loanwords
+
+English Wiktionary, under CC BY-SA 4.0 as above: the borrowing templates in
+Vietnamese etymology sections, which name the donor language and the source
+word, and the definitions of both the Vietnamese word and the source word —
+the latter taken from the source word's own entry, in its own language's
+section.
+
+Changed: each borrowing paired with the definition of the etymology it belongs
+to rather than the first one on the page; the two definitions checked against
+each other, and a card kept only where the meaning is pinned down; source
+words in Khmer, Korean, Russian, Thai, Lao, Tibetan and Sanskrit romanised,
+which Wiktionary renders from a template rather than storing; words that are
+not written as Vietnamese, and proper nouns, dropped.
+
+# Classifiers
+
+English Wiktionary, under CC BY-SA 4.0 as above: the cls= argument on
+Vietnamese noun entries, which names the classifier or classifiers a noun
+takes, and each classifier's own Classifier definition — its semantic rule —
+together with the usage notes, synonyms, chữ Hán spellings and example phrases
+on the classifier's page.
+
+Changed: each cls= argument paired with the definition from the same
+part-of-speech block rather than the first one on the page; nouns Wiktionary
+lists without defining dropped; a rule inherited where one classifier is
+recorded as a synonym of another; the noun-to-classifier mapping inverted to
+list example nouns under each classifier.
+
+Not from Wiktionary: 15 of the 2,781 classifier cards, and 39 of the
+classifier rules, were written for this repository rather than extracted. They
+fill two gaps. First, four classifiers — đôi, cặp, kỳ and đoàn — carried a rule
+but governed no nouns at all, so the card that would teach them could never be
+built. Second, 59 classifiers appeared on cards with no definition anywhere in
+Wiktionary, so the card could state a pairing without explaining it. Those records carry "source": "curated" (or
+"curated-gloss", where only the English definition was replaced) in
+data/classifiers/**, and are not under CC BY-SA. They were written by Claude
+Opus 5 and reviewed by a Vietnamese speaker, which cut the pairings from 182 to
+11 and kept the rules as written; see dataraw/classifier/curated/README.md for
+what that review covered.
+
+# Minimal pairs
+
+English Wiktionary, under CC BY-SA 4.0 as above: the definitions of
+Vietnamese monosyllables, regrouped into two kinds of set — words sharing a
+spelling but differing only in tone mark (ma/mà/má/mã/mả/mạ), and words
+sharing a tone but differing in one vowel letter within a, ă, â; e, ê; o, ô,
+ơ; or u, ư (máy/mấy) — that Wiktionary itself does not group.
+
+Changed: nothing about the definitions themselves — every gloss ships
+unedited and unabridged. The grouping into sets, the tone-mark and
+vowel-letter comparison that decides which words belong together, and the
+frequency-based tiering are new, computed from the definitions rather than
+drawn from any source.
+
+# Bare pairs
+
+English Wiktionary, under CC BY-SA 4.0 as above: the definitions of
+Vietnamese words of any syllable count (proper nouns excluded), regrouped by
+their bare skeleton — every tone mark and vowel-quality letter stripped, so
+may/mây/mấy/mầy or an/ăn/ân collapse to the same typed string. Where minimal
+pairs isolate a single mark, bare pairs strip every mark at once, closer to
+what a learner unfamiliar with Vietnamese diacritics would type on a plain
+keyboard.
+
+Changed: nothing about the definitions themselves — every gloss ships
+unedited and unabridged. The skeleton grouping, the cut that drops sets
+already reachable through the shipped minimal-pairs deck, and the
+frequency-based tiering are new, computed from the definitions rather than
+drawn from any source.
+
+# Emoji names
+
+Unicode CLDR's emoji annotations: the Vietnamese and English name of each
+emoji, and its search keywords. This is the same data that names emoji in
+Android, iOS and most keyboards. The required notice is at the end of this
+page.
+
+https://github.com/unicode-org/cldr
+
+Unicode's emoji-test.txt, for which family each emoji belongs to — faces,
+animals, food, flags — and for which spelling of a sequence is the canonical
+one.
+
+https://www.unicode.org/Public/emoji/
+
+Changed: the two languages paired, and an emoji kept only where both name it;
+emoji that depict marks rather than things — arrows, punctuation, keycaps —
+dropped, along with skin-tone variants, which CLDR names by suffixing the
+base emoji's name. Country flag names come from CLDR's derived annotations,
+which generate them from its territory names; no other derived name is used.
+
+The emoji themselves are drawn from Noto Emoji and Noto Color Emoji, by
+Google, under the SIL Open Font License 1.1. Both are subset to the glyphs
+this app shows. Neither declares a Reserved Font Name. The licences ship with
+the fonts, in data/fonts/OFL.txt.
+
+https://fonts.google.com/noto/specimen/Noto+Emoji
+https://openfontlicense.org
+
+An emoji card also asks Google Fonts for a colour version of the one emoji it
+is showing, because the bundled colour font is far too large to ship whole and
+the bundled monochrome one reads poorly for some emoji. This is the only
+request this app makes to anyone else's server, and it tells Google your IP
+address and which emoji is on screen. It is not required: if it fails, is
+blocked, or you are offline, the card falls back to the fonts bundled here and
+nothing is lost but the colour.
+
+https://developers.google.com/fonts/faq/privacy
+
+# English translations
+
+The English translations of the verse and prose above were produced by Claude
+(Anthropic), translating the Vietnamese texts in this repository directly. No
+published English translation was used as a source.
+
+They have not been checked by a human Vietnamese speaker. Treat them as a
+study aid, not as authoritative or scholarly translations. Each data file
+records how and when it was translated.
+
+# Word glosses
+
+The "words" breakdown on a verse or prose card — the contextual meaning of a
+word in the passage in front of you, with its literal reading, its parts and a
+note where one helps — was composed for this repository by Claude (Anthropic),
+reading each passage directly.
+
+It is not derived from Wiktionary, and it is not derived from any published
+commentary, annotated edition or study edition. Annotated editions of Truyện
+Kiều are a real scholarly genre with real copyrights; nothing in this pipeline
+is sourced from one, and none was consulted.
+
+Like the translations above, these glosses have not been checked by a human
+Vietnamese speaker. Where scholarship genuinely differs on a reading, the
+entry says so rather than presenting a confident gloss; where an entry does
+not say so, that is the model's judgement and not a scholarly consensus. Treat
+them as a study aid.
+
+Glosses are being added one work at a time, so most of the corpus does not
+carry them yet. What ships today is the whole of Truyện Kiều — all 1,627
+couplets of it, the longest work in the corpus to carry glosses end to end —
+the whole of Lục Vân Tiên, all 1,041 couplets, the whole of Số đỏ, all 1,180
+records, the whole of the Universal
+Declaration of Human Rights, the whole of Chí Phèo, all 238 records, the whole
+of Hà Nội băm sáu phố phường, all 306 records, the whole of Lão Hạc, all
+77 records, the whole of Gió lạnh đầu mùa, all 63 records, the whole of
+Nửa chừng xuân, all 1,351 records, the whole of Dưới bóng hoàng lan, all
+45 records, and the whole of Sống mòn, all 1,616 records and the largest work
+in the corpus. How they are produced, and what the pilot found, is recorded in
+dataraw/gloss/.
+
+# Reusing any of this
+
+The app itself — its code, design and translations — is not open source, and
+is not offered for reuse. See LICENSE.
+
+The data files derived from Wiktionary remain under CC BY-SA 4.0, and those
+derived from Tatoeba under CC BY 2.0 FR, because their sources require it.
+The data derived from Unicode remains under the Unicode Licence, and the
+bundled font subsets under the SIL Open Font License. LICENSE lists exactly
+which files those are.
+
+# Corrections
+
+Anything credited wrongly here, or missing, is a bug. Please open an issue.
+
+https://github.com/anhtr/voomscroll/issues
+
+# Unicode notice
+
+UNICODE LICENSE V3
+
+COPYRIGHT AND PERMISSION NOTICE
+
+Copyright © 1991-2026 Unicode, Inc.
+
+NOTICE TO USER: Carefully read the following legal agreement. BY DOWNLOADING,
+INSTALLING, COPYING OR OTHERWISE USING DATA FILES, AND/OR SOFTWARE, YOU
+UNEQUIVOCALLY ACCEPT, AND AGREE TO BE BOUND BY, ALL OF THE TERMS AND
+CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT DOWNLOAD, INSTALL,
+COPY, DISTRIBUTE OR USE THE DATA FILES OR SOFTWARE.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of data files and any associated documentation (the "Data Files") or software
+and any associated documentation (the "Software") to deal in the Data Files or
+Software without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, and/or sell copies of the Data Files
+or Software, and to permit persons to whom the Data Files or Software are
+furnished to do so, provided that either (a) this copyright and permission
+notice appear with all copies of the Data Files or Software, or (b) this
+copyright and permission notice appear in associated Documentation.
+
+THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD
+PARTY RIGHTS.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE
+LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY
+DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
+CONNECTION WITH THE USE OR PERFORMANCE OF THE DATA FILES OR SOFTWARE.
+
+Except as contained in this notice, the name of a copyright holder shall not
+be used in advertising or otherwise to promote the sale, use or other dealings
+in these Data Files or Software without prior written authorization of the
+copyright holder.

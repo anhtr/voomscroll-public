@@ -1,0 +1,10 @@
+{"schema": 2, "entries": {
+"ít": {"etymology":["From Proto-Vietic *ʔiːt, from Proto-Mon-Khmer *ʔit ~ *ʔiit ~ *ʔiət (Shorto 2006, #939), cognate with Muong ét, ʔɛt, Phong-Kniang ʔeːt, Koho it (“little”) and possibly Khmer អាត់ (“small, tiny”). Compare ",{"vi":"ét"},"."],"pos":[{"name":"Determiner","senses":[{"gloss":["few, little"],"ant":["nhiều"]}]}]},
+"ít khi": {"etymology":[{"vi":"ít"}," + ",{"vi":"khi"},"."],"pos":[{"name":"Adverb","senses":[{"gloss":["seldom, rarely"]}]}]},
+"ít nhất": {"pos":[{"name":"Adverb","senses":[{"gloss":["at least"],"syn":["chí ít"]}]}]},
+"ít nhiều": {"etymology":[{"vi":"ít"}," (“few”) + ",{"vi":"nhiều"}," (“many”)"],"pos":[{"name":"Adverb","senses":[{"gloss":["more or less"]}]}]},
+"ít nói": {"etymology":[{"vi":"ít"}," (“few, little”) + ",{"vi":"nói"}," (“to speak, to talk”)."],"pos":[{"name":"Adjective","senses":[{"gloss":["uncommunicative; taciturn; silent"]}]}]},
+"ích": {"etymology":["Sino-Vietnamese word from ",{"han":"益"}," (“benefit”)."],"pos":[{"name":"Noun","senses":[{"gloss":["benefit, use"]}]}]},
+"ích lợi": {"etymology":["Sino-Vietnamese word from ",{"han":"益利"},", composed of ",{"han":"益"}," (“benefit, increase”) and ",{"han":"利"}," (“advantage, profit”)."],"pos":[{"name":"Noun","senses":[{"gloss":["advantage, benefit"]}]}]},
+"ích kỷ": {"etymology":["Sino-Vietnamese word from ",{"han":"益己"},", composed of ",{"han":"益"}," (“benefit”) and ",{"han":"己"}," (“self”)."],"notes":[["also spelled ",{"vi":"ích kỉ"}]],"pos":[{"name":"Adjective","senses":[{"gloss":["selfish"]}]}]}
+}}

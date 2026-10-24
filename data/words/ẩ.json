@@ -1,0 +1,8 @@
+{"schema": 2, "entries": {
+"ẩm": {"pos":[{"name":"Adjective","senses":[{"gloss":["humid; damp; moist"]}]}]},
+"ẩn": {"etymology":["Sino-Vietnamese word from ",{"han":"隱"},"."],"pos":[{"name":"Adjective","senses":[{"gloss":["latent"]},{"gloss":["hidden"],"labels":["computing"]}]},{"name":"Verb","senses":[{"gloss":["to seclude oneself from the world"],"labels":["of a person"]},{"gloss":["to hide oneself"],"labels":["literary"]},{"gloss":["to hide"],"labels":["computing"]}]},{"name":"Noun","senses":[{"gloss":["clipping of ",{"vi":"ẩn số"}," (“mathematical unknown”)"]}]}],"usage_notes":[["\"Hide\" and \"hidden\" may not be a computing term per se, but ẩn is chiefly used to translate them in computing contexts, as in thư mục ẩn (\"hidden folder\")."]]},
+"ẩm thực": {"etymology":["Sino-Vietnamese word from ",{"han":"飲食"}," (“drink and food, to drink and to eat”)."],"pos":[{"name":"Noun","senses":[{"gloss":["cuisine"]},{"gloss":["gastronomy"],"labels":["science"]}]}]},
+"ẩn số": {"etymology":["Sino-Vietnamese word from ",{"han":"隱數"},", composed of ",{"han":"隱"}," (“to hide”) and ",{"han":"數"}," (“number”)"],"pos":[{"name":"Noun","senses":[{"gloss":["an unknown"],"labels":["algebra"],"syn":["ẩn"]},{"gloss":["an unknown entity, a missing link, a mystery or an enigma"],"labels":["by extension"]}]}]},
+"ẩn thân": {"etymology":["Sino-Vietnamese word from ",{"han":"隱身"},"."],"pos":[{"name":"Verb","senses":[{"gloss":["to remain hidden from the public"]}]}]},
+"ẩn danh": {"etymology":["Sino-Vietnamese word from ",{"han":"隱名"},", composed of ",{"han":"隱"}," (“to hide”) and ",{"han":"名"}," (“name”)."],"pos":[{"name":"Adjective","senses":[{"gloss":["anonymous"]}]}]}
+}}

@@ -1,0 +1,7 @@
+{"schema": 2, "entries": {
+"ủy": {"notes":[["also spelled ",{"vi":"uỷ"}]],"pos":[{"name":"Verb","etymology":["Sino-Vietnamese word from ",{"han":"委"},"."],"senses":[{"gloss":["to charge (a person to do something)"]}]}]},
+"ủy viên": {"etymology":["Sino-Vietnamese word from ",{"han":"委員"},", composed of ",{"han":"委"}," (“committee”) and ",{"han":"員"}," (“member”). Blend of ",{"vi":"uỷ ban"}," + ",{"vi":"viên"},"."],"notes":[["also spelled ",{"vi":"uỷ viên"}]],"pos":[{"name":"Noun","senses":[{"gloss":["committee member"]}]}]},
+"ủy ban": {"etymology":["Sino-Vietnamese word from ",{"han":"委班"}," (“committee”)."],"notes":[["also spelled ",{"vi":"uỷ ban"}]],"pos":[{"name":"Noun","senses":[{"gloss":["committee"]}]}]},
+"ủy nhiệm": {"etymology":["Sino-Vietnamese word from ",{"han":"委任"},"."],"notes":[["also spelled ",{"vi":"uỷ nhiệm"}]],"pos":[{"name":"Verb","senses":[{"gloss":["to appoint to a job, to assign a role"]}]}]},
+"ủy ban nhân dân": {"etymology":[{"vi":"uỷ ban"}," (“committee”) + ",{"vi":"nhân dân"}," (“people”)."],"notes":[["also spelled ",{"vi":"uỷ ban nhân dân"}]],"pos":[{"name":"Noun","senses":[{"gloss":["a people's committee (local executive branch in Vietnam)"]}]}],"usage_notes":[["In Vietnam, people's committees are the local counterparts of ",{"vi":"Chính phủ"},". They are divided into ",{"vi":"sở"}," (“departments”) at the provincial level and ",{"vi":"phòng"}," (“wards”) at the district level."]]}
+}}

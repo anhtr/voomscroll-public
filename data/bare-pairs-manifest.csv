@@ -1,0 +1,878 @@
+id,tier,size
+a hoan,2,2
+ai quan,4,2
+am,4,8
+am hieu,3,2
+am i,5,2
+am tuong,3,2
+am u,5,2
+am vang,4,2
+an co,3,2
+an gian,1,2
+an may,2,2
+an nhan,4,2
+an than,2,2
+an tu,2,3
+an va,4,2
+an đinh,1,2
+ao quan,2,2
+ao tuong,3,2
+ba ba,1,2
+ba chu,2,2
+ba quan,2,2
+ban an,1,2
+ban le,4,2
+ban nhac,1,2
+ban tang,4,2
+ban than,4,5
+ban thao,1,2
+ban tho,2,2
+ban tin,1,2
+ban tinh,1,2
+ban đao,4,2
+ban đo,1,2
+bang bo,4,2
+banh bao,4,2
+banh bo,3,2
+banh kep,5,2
+bao an,3,2
+bao che,2,2
+bao chua,2,2
+bao hieu,2,2
+bao hoa,3,2
+bao kiem,1,2
+bao san,2,2
+bao thu,2,2
+bao tu,2,2
+bao đong,2,3
+bap,4,2
+bap benh,5,2
+bat can,2,2
+bat chot,4,2
+bat coc,3,2
+bat giac,3,2
+bat loi,1,2
+bat nhan,3,2
+bat tai,3,3
+bat đo,3,2
+bat đong,1,2
+bay gio,3,2
+be boi,3,2
+be mat,5,2
+be ti,3,2
+bi hai,3,2
+bien chung,2,3
+bien ho,2,2
+bim bim,5,2
+binh bong,4,2
+binh nhat,1,2
+binh than,4,2
+bo ba,5,2
+bo ben,5,2
+bo bo,4,2
+bo cap,4,2
+bo may,2,2
+bo me,1,2
+bo ngo,5,2
+bo nho,1,2
+bo sau,5,2
+bo tu,2,2
+bo ve,3,2
+bo vo,4,2
+bo đe,2,2
+bo đo,4,3
+bo đoi,1,3
+boi bac,4,2
+boi hoi,5,2
+boi loi,4,2
+boi phan,3,2
+boi roi,4,2
+bom bop,5,2
+bon be,3,2
+bon phan,4,2
+bong bay,4,2
+bong bong,5,3
+buc boi,4,2
+buoc,2,2
+buoi,5,4
+buom,5,3
+buon,5,3
+buong,5,4
+buong loi,5,2
+buong tha,3,2
+ca lac,4,2
+ca moi,4,2
+ca nhac,2,2
+ca nuoc,5,2
+ca ra,5,2
+ca tung,4,2
+ca-lo,3,2
+cai bien,2,2
+cai co,4,2
+cam co,2,2
+cam cui,5,2
+cam nang,4,2
+cam thu,4,3
+cam tinh,1,2
+cam tu,1,2
+cam tuc,4,2
+cam đau,3,2
+cam đoan,3,2
+can cau,3,2
+can co,3,3
+can cu,3,2
+can ke,4,2
+can su,2,2
+cat canh,3,2
+cat cu,2,2
+cau am,3,2
+cau chi,3,2
+cau co,4,2
+cau may,4,3
+cau noi,1,2
+chan chinh,3,2
+chap nhat,4,2
+chat choi,4,2
+che chan,4,2
+chem,5,3
+chet ngat,4,3
+chi li,3,2
+chi thien,2,2
+chi thu,1,2
+chi tieu,1,2
+chieu mo,3,2
+chin muoi,5,2
+chinh luu,2,2
+chinh phu,3,2
+chinh su,1,2
+chinh the,2,2
+chinh tri,2,2
+choc,4,2
+choi,5,8
+choi voi,5,2
+chom,5,5
+chom chom,5,2
+chon,5,5
+chop mat,4,2
+chu ki,3,2
+chu nghia,1,2
+chu nhat,1,2
+chu quan,1,2
+chu tam,1,2
+chu tri,2,2
+chu vi,3,2
+chu y,1,2
+chu đao,3,2
+chua he,2,2
+chui,5,4
+chung cu,1,2
+chung minh,1,2
+chung nhan,1,2
+chuoc,4,3
+chuom,5,2
+chuong,4,7
+chuyen chu,1,2
+co bac,3,2
+co co,5,2
+co cong,1,2
+co han,1,2
+co khi,1,2
+co mat,1,2
+co nhan,1,2
+co so,2,3
+co the,1,3
+co thu,2,3
+co tich,1,2
+co tuong,2,2
+co van,2,3
+co vu,3,2
+co đo,1,2
+co đong,4,4
+com,5,5
+com cop,5,2
+con đo,3,2
+cong an,1,2
+cong chung,1,2
+cong cong,1,2
+cong nhan,1,2
+cong san,1,2
+cong su,2,3
+cong tac,2,3
+cong to,3,2
+cong xa,1,2
+cong đoan,1,3
+cong đong,1,2
+cop,4,2
+cu khoi,4,2
+cu ki,4,3
+cu li,3,2
+cun con,5,2
+cung cap,3,2
+cung co,3,2
+cung đau,2,2
+cuoc,4,4
+cuoi,5,6
+cuom,5,2
+cuong,4,4
+cuong dam,3,2
+cuu chua,2,2
+cuu mang,4,2
+cuu van,4,2
+dam,5,7
+dam de,5,2
+dan chung,1,2
+dan da,4,2
+dan dung,3,2
+dan than,4,2
+dan tri,1,2
+danh gia,1,2
+danh tu,1,2
+dat diu,5,2
+dat su,4,2
+dau an,2,2
+dau mo,3,2
+day dan,4,2
+day dang,5,2
+de dang,5,2
+de thuong,1,2
+di chi,2,2
+di vat,2,2
+diu dat,5,2
+do hoi,3,2
+don,5,4
+du di,3,2
+du kien,2,2
+du lieu,2,2
+du phong,2,2
+du tru,3,2
+duoi,5,3
+e am,4,2
+gay go,4,2
+ghet,5,2
+gia ca,2,2
+gia quyen,3,2
+gia su,1,2
+gia thanh,1,2
+gia thu,1,2
+gia toc,1,2
+gia tu,4,2
+gia đinh,2,3
+gia đo,4,2
+giac,3,2
+gian cach,3,2
+gian doi,4,2
+gian kho,2,2
+giap,5,2
+giau,5,4
+giem,5,2
+gio,4,7
+gio lua,4,2
+gion,4,2
+giong noi,4,2
+giuong,5,3
+go bo,4,2
+goc tu,3,2
+gon,4,4
+gong,5,3
+gop,4,2
+gui,5,2
+guong,5,3
+hac,4,2
+hai li,3,2
+hai quan,1,2
+ham ho,4,4
+hang hai,4,2
+hang ngay,3,2
+hao hung,3,2
+hao mon,4,2
+hap thu,3,2
+hay,5,4
+hep,5,2
+hien than,2,2
+hinh dang,3,2
+hinh thanh,1,2
+ho hang,3,2
+ho khau,2,2
+ho li,3,2
+hoa cong,4,2
+hoa hop,2,2
+hoa lo,4,2
+hoang,5,3
+hoang so,3,2
+hoat hoa,4,2
+hoc ba,4,2
+hoc vien,1,2
+hoi am,3,3
+hoi han,3,2
+hoi hop,2,2
+hoi tham,2,2
+hoi thao,2,2
+hoi truong,1,2
+hom,5,5
+hom hinh,5,2
+hong quan,2,2
+hop so,3,2
+hu hoa,4,2
+hua,5,3
+hung ho,5,2
+hung huc,5,2
+hung khoi,2,2
+hung thu,2,2
+huong,3,4
+huong duong,1,2
+huu tinh,1,2
+ke ca,1,2
+ke tu,1,2
+khai hoa,4,3
+khai quat,4,2
+khai truong,2,2
+khang,5,2
+khap,5,2
+khau,5,3
+khi đot,3,2
+khinh khi,3,2
+kho khan,4,2
+khoa hoc,3,2
+khon,5,2
+khon cung,3,2
+khu khu,5,2
+khua,5,3
+khung,5,5
+khuyen mai,3,2
+ki su,3,2
+ki thu,2,2
+ki tu,3,2
+kinh can,2,2
+kinh ngu,4,2
+kinh te hoc vi mo,2,2
+kinh đo,1,2
+la đa,2,2
+lac le,5,2
+lam cam,5,2
+lam chung,2,2
+lam dau,3,2
+lam lan,3,2
+lam le,4,2
+lam li,4,2
+lam nham,5,2
+lam ram,4,2
+lam than,3,2
+lan can,4,3
+lan luot,4,2
+lan man,4,2
+lang lang,5,2
+lang nghe,2,2
+lang nhang,5,2
+lao đao,5,2
+lap bap,5,3
+le loi,5,3
+le te,5,2
+le đuong,4,2
+lich su,1,2
+lien hoan,3,2
+lien đoi,3,2
+linh đinh,2,2
+lo la,4,2
+lo lang,4,3
+lo mo,5,4
+lo xo,4,2
+loang quang,5,2
+loi thoi,3,2
+lom,5,3
+lom com,5,3
+lon hon,5,2
+long bong,5,2
+long quyen,4,2
+lop bop,5,2
+lop cop,5,2
+lu bu,4,2
+lu khu,5,2
+luan li,3,2
+luan li hoc,3,2
+luc lac,3,2
+luc luong,3,2
+lung khung,5,2
+lung lo,5,2
+lung tung,4,2
+luoc,5,3
+luon,5,5
+luong,5,5
+luong tu,1,2
+lup xup,5,2
+luu tru,2,2
+ma luc,1,2
+ma so,2,2
+mac mo,4,2
+mai dam,3,2
+mai mot,4,2
+man bac,4,2
+mang luoi,3,2
+mang nhen,3,2
+manh khoe,5,2
+map mo,5,2
+mat day,2,2
+mat mat,3,3
+mat nuoc,1,2
+mau me,4,2
+mau tu,1,2
+may chu,1,2
+may may,5,2
+me man,4,2
+mien nhiem,3,2
+minh quan,1,2
+mo mang,3,2
+mom,5,6
+mon,4,4
+mon mon,5,2
+mong manh,3,2
+muoi,5,7
+muon,5,6
+muong,5,6
+nam mo,2,2
+nam moi,3,2
+nam tram,4,2
+nan,5,8
+nang no,4,2
+nao nung,5,2
+nap,4,3
+nay no,4,2
+nga ngua,4,2
+ngan ngu,4,2
+ngang,5,5
+ngap,5,2
+ngay ngay,4,2
+ngay thang,2,2
+nghen,5,4
+ngheo kho,3,2
+nghi an,2,2
+nghi le,2,2
+nghi ngoi,3,2
+nghich tu,3,2
+ngo ngan,4,2
+ngo ngang,5,2
+ngoai khoa,3,2
+ngoai tru,2,2
+ngong,5,5
+ngu am,2,2
+ngu dan,3,2
+ngu ngon,3,2
+ngui,5,2
+nguoi,4,4
+nguyen tac,2,2
+nguyen to,1,2
+nha chu,4,2
+nha may,4,2
+nha tho,2,3
+nha tu,2,2
+nham nhi,4,2
+nham nho,5,2
+nhan chung,4,2
+nhan hoa,2,2
+nhan nho,5,2
+nhan nhuc,3,2
+nhan su,1,2
+nhan tai,1,2
+nhan than,1,2
+nhan thuc,1,2
+nhan tinh,1,2
+nhan tu,1,2
+nhang,5,2
+nhap nhom,5,2
+nhat ki,3,2
+nhau,4,3
+nhay,5,6
+nhe,5,5
+nhen,4,2
+nhoi,5,6
+nhom,5,4
+nhong,5,5
+nhong nhong,5,2
+nhu the,1,2
+nhuc,4,2
+noi doi,3,2
+noi gian,3,2
+noi lai,2,2
+noi sinh,1,2
+noi tiep,1,2
+nong noi,2,2
+nong sot,5,2
+nop,5,2
+nu,3,2
+nuoc đai,3,2
+nuong,5,4
+oan,5,4
+oan hon,4,2
+pham,4,3
+phan bo,1,2
+phan cong,1,2
+phan hoi,2,2
+phan khoi,3,2
+phan tu,1,4
+phan xu,2,2
+phan đe,2,2
+phan đong,1,2
+phao tay,4,2
+phat đien,3,2
+phi pham,4,2
+pho bay,3,2
+phong bi,3,2
+phong hoa,4,2
+phong thanh,1,2
+phong tinh,2,2
+phong ve,2,2
+phong xa,3,2
+phot,5,3
+phu chu,2,2
+phu ho,2,2
+phu nhan,2,2
+phu tro,2,2
+phu tu,1,2
+qua mat,1,2
+qua the,1,2
+qua đoi,4,2
+quan chung,3,2
+quan co,2,2
+quan ham,3,2
+quan nhan,1,2
+quan quan,2,2
+quan su,1,2
+quan tai,2,2
+quan thu,2,2
+quan tri,4,2
+quoc tang,4,2
+quy tu,2,2
+ra khoi,3,2
+ra mat,1,2
+ram rap,4,2
+ran rat,5,2
+rat,5,3
+rep,5,2
+reu rao,5,2
+ro ret,5,2
+rom,5,5
+rong rong,4,2
+ru ri,5,2
+rung rinh,5,2
+ruoc,5,2
+ruoi,5,6
+ruong,5,4
+ruot,4,2
+rut ruot,4,2
+san co,2,2
+san sat,5,2
+sanh soi,5,2
+sau đo,4,3
+set,4,2
+sieu pham,4,2
+so le,3,2
+so tai,1,2
+so truong,1,2
+so đo,2,2
+soi sang,5,3
+song than,2,2
+su co,1,2
+su gia,2,2
+su su,5,2
+su than,2,2
+sua chua,3,2
+sung so,5,2
+suoi,4,2
+suon,4,2
+suong,5,4
+ta phai,3,2
+tac gia,1,2
+tai che,2,2
+tai gia,2,2
+tai hoa,4,2
+tai nghe,2,2
+tai vi,1,2
+tam bo,4,2
+tam thuc,2,2
+tam tinh,1,2
+tan binh,2,2
+tan man,5,2
+tan mat,3,2
+tan ngu,3,2
+tan so,2,2
+tan tam,2,2
+tan tao,3,2
+tan tien,5,2
+tan tinh,2,3
+tan van,3,2
+tang gia,2,2
+tang thuong,3,2
+tang toc,3,2
+tap tenh,5,2
+tep,4,2
+tham hiem,3,2
+tham hoa,4,2
+tham sat,3,2
+tham thiet,4,2
+tham van,2,2
+than chu,1,2
+than khi,4,2
+than the,1,2
+than tho,5,2
+than tinh,1,2
+than toc,2,2
+thang bang,2,2
+thang canh,2,2
+thanh ca,2,2
+thanh danh,1,2
+thanh nien,1,2
+thanh nu,1,2
+thanh that,2,2
+thanh the,1,2
+thanh thien,2,2
+thanh thuc,3,2
+thanh tich,1,2
+thanh trung,3,2
+thao lao,4,2
+that than,1,2
+that thu,1,2
+that tinh,1,2
+thay chua,2,2
+thay mo,4,2
+the luc,1,2
+the nao,1,2
+thi truong,1,2
+thi đau,2,2
+thien co,1,2
+thien ha,1,2
+thien hoa,2,2
+thien tai,2,2
+thien tu,1,2
+thien đinh,3,4
+tho lo,5,4
+tho may,3,2
+tho moc,3,2
+tho san,3,2
+tho than,4,2
+thoat y,2,2
+thoi thuong,3,2
+thong,5,4
+thong thuong,1,2
+thu nam,1,2
+thu nhan,1,3
+thu nhat,3,2
+thu phap,1,2
+thu tinh,2,2
+thu truong,1,2
+thu tu,1,3
+thua co,5,2
+thuan hoa,3,2
+thuoc,2,3
+thuoc tay,2,2
+thuoc đo,3,2
+thuong,5,5
+thuong luong,5,2
+thuong thuc,1,2
+thuong tinh,1,2
+thuong vu,1,2
+thuy loi,3,2
+thuy van,3,2
+ti ti,4,3
+ti vi,4,2
+tiem an,3,2
+tien dung,2,2
+tien le,3,2
+tien luong,1,2
+tien phong,1,2
+tien su,1,2
+tien than,1,2
+tien đe,1,2
+tien đo,1,2
+tieu tam,2,2
+tieu thu,2,2
+tieu tu,1,3
+tieu đe,2,2
+tieu đoi,1,2
+tin dung,1,2
+tinh lang,3,2
+tinh thanh,1,2
+tinh the,1,2
+tinh tien,3,2
+tinh tinh,1,2
+tinh trang,2,2
+tinh tu,2,2
+tinh tuong,2,2
+tinh y,1,2
+to mo,3,2
+to tuong,3,2
+toi tan,3,2
+tom,5,5
+ton,5,5
+ton tho,3,2
+tram tinh,3,2
+tran the,1,2
+trang nha,3,2
+trang trai,2,2
+trang tron,4,2
+trao đoi,4,2
+trat,4,2
+tre,5,6
+tren,5,3
+tret,5,2
+tri an,3,2
+tri gia,1,2
+tri thuc,2,2
+trom,5,2
+trong tai,2,2
+trong thuong,1,2
+tru tinh,3,2
+trung lap,3,2
+trung ran,4,2
+trung thuc,2,2
+trung tu,3,2
+truong,5,7
+truong ki,3,2
+truong thanh,1,2
+truyen thong,1,2
+tu ai,2,2
+tu chi,2,2
+tu giac,3,2
+tu ngu,1,2
+tu nguyen,2,2
+tu nhan,2,2
+tu phap,1,2
+tu sac,2,2
+tu si,2,2
+tu tai,3,2
+tu thu,2,2
+tu ton,3,2
+tu tran,1,2
+tu truong,2,2
+tu tu,2,4
+tu van,1,3
+tu vi,1,2
+tu vien,2,2
+tu đien,2,3
+tuc,1,2
+tung hung,5,2
+tuoi,4,3
+tuoi tho,2,2
+tuoi tre,3,2
+tuong,4,6
+tuong quan,1,2
+tuong tan,2,2
+tuong tu,1,2
+tuy tang,5,2
+ung bien,4,2
+ung dung,3,2
+uon,5,4
+uong,4,3
+uu tu,3,2
+vam,5,2
+van hanh,3,2
+van phong,1,2
+van tho,4,2
+van van,4,2
+van ve,4,2
+vang hoe,4,2
+vat va,4,2
+vi mo,2,2
+vi the,1,3
+vo bien,4,2
+vo bo,2,2
+vo can,2,2
+vo co,3,2
+vo ke,1,2
+vo lai,4,2
+vo le,2,2
+vo phuc,2,2
+vo si,4,2
+vo tan,3,2
+vo thuong,2,2
+vo tinh,1,2
+vo tri,2,2
+vo tuong,2,2
+vo van,4,2
+vo ve,4,2
+vo vi,1,2
+vo vo,4,2
+vo đoan,3,2
+voi voi,5,2
+vu nu,3,2
+vung bien,1,2
+vung vang,5,2
+vuong,4,3
+vuong gia,2,2
+vuong van,4,2
+vuot,5,3
+xa xi,5,2
+xam,5,4
+xan,5,2
+xang,5,3
+xao xac,5,2
+xep hang,2,2
+xo mui,4,2
+xu,4,4
+xuat gia,1,2
+xuat than,1,2
+xuong,4,5
+xuong ca,4,2
+y nguyen,2,2
+đa ta,3,2
+đai hoa,4,2
+đai su,2,2
+đan,5,7
+đan hac,5,2
+đang bo,1,2
+đang đang,5,2
+đanh bat,2,2
+đanh rang,4,2
+đao quan,2,2
+đat đo,3,2
+đau co,1,2
+đau khau,3,2
+đau long,1,2
+đau tay,2,2
+đau thu,1,2
+đau đau,5,3
+đau đo,2,2
+đau đoc,1,2
+đe tam,3,2
+đe tu,3,2
+đi đung,5,2
+đia chi,1,2
+đia hat,3,2
+đien co,2,2
+đien khi,3,2
+đien tich,2,2
+đien tu,1,2
+đien tu hoc,1,2
+đinh huong,3,2
+đo an,1,2
+đo choi,4,2
+đo luong,3,2
+đo mat,4,2
+đo thi,1,2
+đo vat,1,2
+đo đac,3,2
+đo đan,4,2
+đo đen,2,2
+đo đoc,2,2
+đoc đao,3,2
+đoi moi,3,2
+đoi nao,3,2
+đoi đoi,1,2
+đom,5,5
+đom đop,5,2
+đon đau,3,2
+đon đoc,3,2
+đong bac,2,2
+đong bang,2,2
+đong chi,1,2
+đong co,2,2
+đong long,1,2
+đong luong,1,2
+đong tinh,2,3
+đong tu,1,2
+đong đong,5,2
+đong đuc,4,2
+đot pha,2,2
+đung muc,2,2
+đung đan,3,2
+đuoc,4,3
+đuong,5,3
+đuong phen,5,2
